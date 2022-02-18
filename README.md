@@ -1,3 +1,1 @@
 
-https://github.com/OQODD/Help
-https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWYxbEJoTUR5Zi1BT2ZUdVJfYzhiQ2l3NFNZQXxBQ3Jtc0tsNW5ham5wSkRWZ1VQUXZJcGFDaW11Vy1YSzBYN2NOXzdMdFAwWmRGU0R4a2gyalBYSExWbW15V0c5bThRZDdBLVNPcDg2dGFQaFZsb0RYTUExZzNIYlJKZmd3MU9WekwtWUJVV292TF9XekVCM3F6aw&q=https%3A%2F%2Fdashboard.heroku.com%2Fnew%3Ftemplate%3D&v=ORKj7ESQ5hs
